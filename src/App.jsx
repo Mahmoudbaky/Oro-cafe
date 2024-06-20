@@ -15,7 +15,7 @@ function App() {
       <TheLogo src={Thelogoimg} />
       <SocialMediaIcons />
       <TheMenu />
-      <Text text="Opening soon" />
+      <Text text="Coming soon" />
     </>
   );
 }
