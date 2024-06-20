@@ -1,0 +1,23 @@
+.OroBtnStyle {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+  background-color: #eeaa79;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  font-size: 16px;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+  width: 300px;
+  justify-content: center;
+  align-items: center;
+}
+
+.OroBtnStyle:hover {
+  background-color: #f0c9a5;
+  color: black;
+}
