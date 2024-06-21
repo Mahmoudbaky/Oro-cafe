@@ -4,7 +4,7 @@ function TheLogo(props) {
       <img
         className="Thelogo"
         src={props.src}
-        height={150}
+        height={100}
         style={{
           display: "block",
           marginLeft: "auto",
