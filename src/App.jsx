@@ -17,7 +17,8 @@ function App() {
       <SocialMediaIcons />
       <TheMenu />
       <Text text="Coming soon" />
-      <img className="coffeeImg" src={coffee} alt="coffee" />
+
+      {/* <img className="coffeeImg" src={coffee} alt="coffee" /> */}
 
       {/*
       <div className="coffeeImg">
