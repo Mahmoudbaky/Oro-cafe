@@ -5,7 +5,7 @@ function Text(props) {
     <p
       style={{
         fontFamily: "Playwrite NZ",
-        fontSize: "75px",
+        fontSize: "65px",
         color: "#eeaa79",
         textAlign: "center",
         marginTop: "200px",
