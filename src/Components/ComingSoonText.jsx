@@ -8,7 +8,7 @@ function Text(props) {
         fontSize: "40px",
         color: "#eeaa79",
         textAlign: "center",
-        marginTop: "200px",
+        marginTop: "250px",
       }}
     >
       {props.text}

@@ -11,7 +11,7 @@
 
 .menuStyle ul li {
   list-style: none;
-  margin: 0 0px;
+  margin: 0 -5px;
 }
 
 .menuStyle ul li .iconStyle {
