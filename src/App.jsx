@@ -15,7 +15,6 @@ function App() {
     <>
       <TheLogo src={Thelogoimg} />
       <SocialMediaIcons />
-      <TheMenu />
       <Text text="Coming soon" />
 
       {/* <img className="coffeeImg" src={coffee} alt="coffee" /> */}
